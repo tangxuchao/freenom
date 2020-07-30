@@ -332,4 +332,4 @@ $ cd /data/wwwroot/freenom/ && php run
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
 
-### 🥝  触发 let's go
+### 🥝  触发 let's go（好像只有10点才能看到结果）
